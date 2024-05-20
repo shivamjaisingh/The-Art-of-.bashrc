@@ -4,7 +4,7 @@
 
 ```bash
 # alias for ls 
-alias ll = 'ls -als'
+alias ll = 'ls -alsF'
 
 # alias to create a directory and cd into it
 mkcd() {
