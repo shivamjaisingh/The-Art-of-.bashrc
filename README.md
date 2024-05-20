@@ -1,5 +1,6 @@
 # The-Art-of-.bashrc
 
 ```bash
-ll = “ls -as” 
+alias ll = 'ls -als'
+alias mkcd = 'mkdir new_directory && cd new_directory'
 ```
