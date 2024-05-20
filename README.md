@@ -1,5 +1,5 @@
 # The-Art-of-.bashrc
 
-‘’’bash
+```bash
 ll = “ls -as” 
-‘’’
+```
